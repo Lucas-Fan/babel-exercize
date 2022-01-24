@@ -1,0 +1,82 @@
+{
+    "configurations": [
+        {
+            "name": "insert/version-1.js",
+            "program": "${workspaceFolder}/insert/version-1.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "pwa-node"
+        },
+        {
+            "name": "insert/version-2.js",
+            "program": "${workspaceFolder}/insert/version-2.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "pwa-node"
+        },
+        {
+            "name": "insert/version-3.js",
+            "program": "${workspaceFolder}/insert/version-3.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "pwa-node"
+        },
+        {
+            "name": "insert/version-4.js",
+            "program": "${workspaceFolder}/insert/version-4.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "pwa-node"
+        },
+        {
+            "name": "exercize-auto-document/src/index.js",
+            "program": "${workspaceFolder}/exercize-auto-document/src/index.js",
+            "request": "launch",
+            "type": "node"
+        },
+        {
+            "name": "track/src/index.js",
+            "program": "${workspaceFolder}/track/src/index.js",
+            "request": "launch",
+            "type": "node"
+        },
+        {
+            "name": "exercize-type-checker/src/override.js",
+            "program": "${workspaceFolder}/exercize-type-checker/src/override.js",
+            "request": "launch",
+            "type": "node"
+        },
+        {
+            "name": "exercize-auto-i18n/src/index.js",
+            "program": "${workspaceFolder}/exercize-auto-i18n/src/index.js",
+            "request": "launch",
+            "type": "node"
+        },
+        {
+            "name": "exercize-mangle-compress/src/index.js",
+            "program": "${workspaceFolder}/exercize-mangle-compress/src/index1.js",
+            "request": "launch",
+            "type": "node"
+        },
+        {
+            "name": "exercize-babel/src/parser/test.js",
+            "program": "${workspaceFolder}/exercize-babel/src/parser/test.js",
+            "request": "launch",
+            "type": "node"
+        },
+        {
+            "name": "exercize-module-iterator/src/index.js",
+            "program": "${workspaceFolder}/exercize-module-iterator/src/index.js",
+            "request": "launch",
+            "type": "node"
+        }
+    ]
+}
